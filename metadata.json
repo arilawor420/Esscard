@@ -1,0 +1,8 @@
+{
+  "name": "Essence Trading Card Maker",
+  "description": "A user-friendly trading card editor with custom art uploading, AI illustration generation, card set saving, and real-time Google Sheets sync. And collaborative sets",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
